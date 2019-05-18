@@ -1,5 +1,7 @@
 # NanoDrugsMalaria
 
+## Machine Learning for Antimalarial Drug-Decorated Nanoparticles
+
 The scripts corresponds to a project between two universities: University of A Coruna (UDC) and 
 University of Basque Country (UPV/EHU), Spain. The dataset should be downloaded from an external link provided 
 in the *README.txt* from *datasets* folder.
